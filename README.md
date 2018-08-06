@@ -1,2 +1,3 @@
 # chtconvert
-簡繁轉換
+
+Simplified to traditional
